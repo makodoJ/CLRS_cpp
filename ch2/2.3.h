@@ -5,7 +5,7 @@
 #ifndef ch2_3_h
 #define ch2_3_h
 
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 
 using std::vector;
 
