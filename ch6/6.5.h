@@ -5,10 +5,10 @@
 #ifndef ch6_5_h
 #define ch6_5_h
 
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 #include "6.2.h"
 #include "6.3.h"
-#include "/Users/jiangrenjie/Documents/clrs/print/Heap.h"
+#include "../Heap.h"
 
 namespace CLRS{
     namespace CH6{
