@@ -5,7 +5,7 @@
 #ifndef prob2_2_h
 #define prob2_2_h
 
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 
 using std::vector;
 
