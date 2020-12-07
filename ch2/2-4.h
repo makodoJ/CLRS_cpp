@@ -1,7 +1,7 @@
 #ifndef prob2_4_h
 #define prob2_4_h
 
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 
 using std::vector;
 
