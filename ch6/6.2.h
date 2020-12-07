@@ -6,7 +6,7 @@
 #define ch6_2_h
 
 #include "6.1.h"
-#include "/Users/jiangrenjie/Documents/clrs/print/Heap.h"
+#include "../Heap.h"
 
 using std::swap;
 
