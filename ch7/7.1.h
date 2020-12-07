@@ -6,7 +6,7 @@
 #define ch7_1_h
 
 #include <vector>
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 
 using std::swap;
 using std::vector;
