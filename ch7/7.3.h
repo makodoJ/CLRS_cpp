@@ -5,8 +5,8 @@
 #ifndef ch7_3_h
 #define ch7_3_h
 
-#include "../ch5/5.1.h"
-#include "../print.h"
+#include "/Users/jiangrenjie/Documents/clrs/ch5/5.1.h"
+#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
 #include "7.1.h"
 
 namespace CLRS{ namespace CH7{
