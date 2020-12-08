@@ -3,7 +3,7 @@
 //
 
 #include "7-2.h"
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 
 using namespace CLRS::CH7;
 
