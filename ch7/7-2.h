@@ -5,7 +5,7 @@
 #ifndef prob7_2_h
 #define prob7_2_h
 
-#include "/Users/jiangrenjie/Documents/clrs/ch5/5.1.h"
+#include "../ch5/5.1.h"
 #include "7.1.h"
 
 namespace CLRS{namespace CH7{
