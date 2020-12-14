@@ -5,9 +5,9 @@
 #ifndef ch9_1_h
 #define ch9_1_h
 
-#include "/Users/jiangrenjie/Documents/clrs/ch5/5.1.h"
-#include "/Users/jiangrenjie/Documents/clrs/ch7/7.3.h"
-#include "/Users/jiangrenjie/Documents/clrs/ch7/7.1.h"
+#include "../5.1.h"
+#include "../7.3.h"
+#include "../7.1.h"
 
 #include <vector>
 
