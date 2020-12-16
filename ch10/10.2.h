@@ -5,7 +5,7 @@
 #ifndef CH10_2_h
 #define CH10_2_h
 
-#include "/Users/jiangrenjie/Documents/clrs/print/print.h"
+#include "../print.h"
 #include "List.h"
 
 namespace CLRS{ namespace CH10{
